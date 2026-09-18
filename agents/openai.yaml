@@ -1,0 +1,8 @@
+interface:
+  display_name: "咔咔封面 Skill"
+  short_description: "四稿筛选、高清放大与 AI 标题设计的统一封面工作流"
+  brand_color: "#E53922"
+  default_prompt: "使用 $kaka-cover 为本期主题制作四张无字封面小样，并在我选中后输出高清无字版和 AI 标题版。"
+
+policy:
+  allow_implicit_invocation: true
